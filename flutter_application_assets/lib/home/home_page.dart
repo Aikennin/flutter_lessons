@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Color(0xffced4da),
+        backgroundColor: const Color(0xffced4da),
         elevation: 0,
         leading: const Icon(
           Icons.menu,
